@@ -1,0 +1,510 @@
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\appsettings.json
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.exe
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.deps.json
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.runtimeconfig.json
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.pdb
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.ClientModel.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Text.Json.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.csproj.AssemblyReference.cache
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.AssemblyInfoInputs.cache
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.AssemblyInfo.cs
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.csproj.CoreCompileInputs.cache
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.MCComputers_WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MCComputers_WebAPI.props
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MCComputers_WebAPI.props
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MCComputers_WebAPI.props
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\scopedcss\bundle\MCComputers_WebAPI.styles.css
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\MCComput.B79E92CF.Up2Date
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\refint\MCComputers_WebAPI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.pdb
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.genruntimeconfig.cache
+E:\Sample Projects\NET Core\MCComputers_WebAPI\obj\Debug\net8.0\ref\MCComputers_WebAPI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Humanizer.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\appsettings.Development.json
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\appsettings.json
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.exe
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.deps.json
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.runtimeconfig.json
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.pdb
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Azure.Core.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Humanizer.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.ClientModel.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Text.Json.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.csproj.AssemblyReference.cache
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.AssemblyInfoInputs.cache
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.AssemblyInfo.cs
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.csproj.CoreCompileInputs.cache
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.MvcApplicationPartsAssemblyInfo.cs
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.MvcApplicationPartsAssemblyInfo.cache
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.MCComputers_WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MCComputers_WebAPI.props
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MCComputers_WebAPI.props
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MCComputers_WebAPI.props
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\scopedcss\bundle\MCComputers_WebAPI.styles.css
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComput.B79E92CF.Up2Date
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\refint\MCComputers_WebAPI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.pdb
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.genruntimeconfig.cache
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\ref\MCComputers_WebAPI.dll
+E:\Sample Projects\NET Core\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\AutoMapper.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\appsettings.Development.json
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\appsettings.json
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.staticwebassets.endpoints.json
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.exe
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.deps.json
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.runtimeconfig.json
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\MCComputers_WebAPI.pdb
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\AutoMapper.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Azure.Core.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Azure.Identity.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Humanizer.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.ClientModel.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.CodeDom.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Formats.Asn1.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Memory.Data.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Text.Json.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.csproj.AssemblyReference.cache
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.AssemblyInfoInputs.cache
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.AssemblyInfo.cs
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.csproj.CoreCompileInputs.cache
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.MvcApplicationPartsAssemblyInfo.cs
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\scopedcss\bundle\MCComputers_WebAPI.styles.css
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.MCComputers_WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.MCComputers_WebAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.MCComputers_WebAPI.props
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.MCComputers_WebAPI.props
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.MCComputers_WebAPI.props
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComput.B79E92CF.Up2Date
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\refint\MCComputers_WebAPI.dll
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.pdb
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\MCComputers_WebAPI.genruntimeconfig.cache
+H:\MCComputers_WebAPI\MCComputers_WebAPI\obj\Debug\net8.0\ref\MCComputers_WebAPI.dll

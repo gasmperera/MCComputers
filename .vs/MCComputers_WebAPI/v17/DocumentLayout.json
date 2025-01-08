@@ -1,0 +1,374 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "H:\\MCComputers_WebAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{580CD25A-A814-4351-9626-920D7BE90E8A}|MCComputers_WebAPI_Test\\MCComputers_WebAPI_Test.csproj|h:\\mccomputers_webapi\\mccomputers_webapi_test\\mccomputers_webapi_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{580CD25A-A814-4351-9626-920D7BE90E8A}|MCComputers_WebAPI_Test\\MCComputers_WebAPI_Test.csproj|solutionrelative:mccomputers_webapi_test\\mccomputers_webapi_test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\mccomputers_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\mccomputers_webapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580CD25A-A814-4351-9626-920D7BE90E8A}|MCComputers_WebAPI_Test\\MCComputers_WebAPI_Test.csproj|h:\\mccomputers_webapi\\mccomputers_webapi_test\\invoicecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{580CD25A-A814-4351-9626-920D7BE90E8A}|MCComputers_WebAPI_Test\\MCComputers_WebAPI_Test.csproj|solutionrelative:mccomputers_webapi_test\\invoicecontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\models\\errorresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\models\\dtos\\invoiceitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\models\\dtos\\invoiceitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\services\\iservices\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\services\\iservices\\iinvoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\models\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\models\\dtos\\invoicedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\models\\dtos\\invoicecreaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\models\\dtos\\invoicecreaterequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\models\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\models\\invoiceitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\data\\invoicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\data\\invoicedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\repositories\\irepositories\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\repositories\\irepositories\\iinvoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\models\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\models\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\repositories\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\repositories\\invoicerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\migrations\\20250104134112_mccomputersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\migrations\\20250104134112_mccomputersdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|h:\\mccomputers_webapi\\mccomputers_webapi\\migrations\\20250104142124_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B303384-61BA-4A72-BC61-BCFFC34E738C}|MCComputers_WebAPI\\MCComputers_WebAPI.csproj|solutionrelative:mccomputers_webapi\\migrations\\20250104142124_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ErrorResponse.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\ErrorResponse.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Models\\ErrorResponse.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\ErrorResponse.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Models\\ErrorResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:33:51.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "InvoiceControllerTests.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI_Test\\InvoiceControllerTests.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI_Test\\InvoiceControllerTests.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI_Test\\InvoiceControllerTests.cs",
+              "RelativeToolTip": "MCComputers_WebAPI_Test\\InvoiceControllerTests.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAADIAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-08T09:17:09.805Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Controllers\\InvoiceController.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAAAFgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:30:49.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MCComputers_WebAPI",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\MCComputers_WebAPI.csproj",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\MCComputers_WebAPI.csproj",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\MCComputers_WebAPI.csproj",
+              "RelativeToolTip": "MCComputers_WebAPI\\MCComputers_WebAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T08:42:09.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MCComputers_WebAPI_Test",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI_Test\\MCComputers_WebAPI_Test.csproj",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI_Test\\MCComputers_WebAPI_Test.csproj",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI_Test\\MCComputers_WebAPI_Test.csproj",
+              "RelativeToolTip": "MCComputers_WebAPI_Test\\MCComputers_WebAPI_Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-08T09:20:44.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Services\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Services\\InvoiceService.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Services\\InvoiceService.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Services\\InvoiceService.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:55:47.558Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IInvoiceService.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Services\\IServices\\IInvoiceService.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Services\\IServices\\IInvoiceService.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Services\\IServices\\IInvoiceService.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Services\\IServices\\IInvoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:16:23.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InvoiceItemDTO.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\DTOs\\InvoiceItemDTO.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Models\\DTOs\\InvoiceItemDTO.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\DTOs\\InvoiceItemDTO.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Models\\DTOs\\InvoiceItemDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:48:18.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceDTO.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\DTOs\\InvoiceDTO.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Models\\DTOs\\InvoiceDTO.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\DTOs\\InvoiceDTO.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Models\\DTOs\\InvoiceDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:52:38.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "InvoiceCreateRequestDTO.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\DTOs\\InvoiceCreateRequestDTO.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Models\\DTOs\\InvoiceCreateRequestDTO.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\DTOs\\InvoiceCreateRequestDTO.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Models\\DTOs\\InvoiceCreateRequestDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:49:13.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Product.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Models\\Product.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\Product.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:37:07.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "InvoiceItem.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\InvoiceItem.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Models\\InvoiceItem.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\InvoiceItem.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Models\\InvoiceItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:32:00Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Models\\Invoice.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\Invoice.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Models\\Invoice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:21:26.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InvoiceDBContext.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Data\\InvoiceDBContext.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Data\\InvoiceDBContext.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Data\\InvoiceDBContext.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Data\\InvoiceDBContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAD4vxAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T11:18:43.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "InvoiceRepository.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Repositories\\InvoiceRepository.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Repositories\\InvoiceRepository.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Repositories\\InvoiceRepository.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Repositories\\InvoiceRepository.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:56:15.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IInvoiceRepository.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Repositories\\IRepositories\\IInvoiceRepository.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Repositories\\IRepositories\\IInvoiceRepository.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Repositories\\IRepositories\\IInvoiceRepository.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Repositories\\IRepositories\\IInvoiceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T12:59:17.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Program.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Program.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Program.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Program.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:26:09.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Models\\Mappings\\MappingProfile.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Models\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Models\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T16:12:31.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250104134112_MCComputersDB.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Migrations\\20250104134112_MCComputersDB.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Migrations\\20250104134112_MCComputersDB.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Migrations\\20250104134112_MCComputersDB.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Migrations\\20250104134112_MCComputersDB.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T13:41:12.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250104142124_m1.cs",
+              "DocumentMoniker": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Migrations\\20250104142124_m1.cs",
+              "RelativeDocumentMoniker": "MCComputers_WebAPI\\Migrations\\20250104142124_m1.cs",
+              "ToolTip": "H:\\MCComputers_WebAPI\\MCComputers_WebAPI\\Migrations\\20250104142124_m1.cs",
+              "RelativeToolTip": "MCComputers_WebAPI\\Migrations\\20250104142124_m1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-04T14:21:24.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

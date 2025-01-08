@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCComputers_WebAPI", "MCComputers_WebAPI\MCComputers_WebAPI.csproj", "{6B303384-61BA-4A72-BC61-BCFFC34E738C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MCComputers_WebAPI_Test", "MCComputers_WebAPI_Test\MCComputers_WebAPI_Test.csproj", "{580CD25A-A814-4351-9626-920D7BE90E8A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B303384-61BA-4A72-BC61-BCFFC34E738C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B303384-61BA-4A72-BC61-BCFFC34E738C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B303384-61BA-4A72-BC61-BCFFC34E738C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B303384-61BA-4A72-BC61-BCFFC34E738C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{580CD25A-A814-4351-9626-920D7BE90E8A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{580CD25A-A814-4351-9626-920D7BE90E8A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{580CD25A-A814-4351-9626-920D7BE90E8A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{580CD25A-A814-4351-9626-920D7BE90E8A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E3FC5C75-F240-4576-8F50-9851458CA5BF}
+	EndGlobalSection
+EndGlobal
