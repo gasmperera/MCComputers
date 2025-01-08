@@ -1,6 +1,6 @@
 # MCComputers
 
-MCComputers is a simple .NET 8 Web API designed to generate invoices. This API allows users to create, manage, and process invoices, leveraging a Code First approach with Entity Framework.
+MCComputers is a simple .NET 8 Web API designed to generate invoices. This API allows users to create, manage, and process invoices, leveraging a **Code First** approach with **Entity Framework** for database interactions.
 
 ## Features
 
