@@ -12,6 +12,7 @@ MCComputers is a simple .NET 8 Web API designed to generate invoices. This API a
 - **.NET 8**: The backend is built using the latest .NET 8 framework.
 - **Entity Framework Core**: Utilized for database access with a Code First approach.
 - **SQL Server**: The application interacts with a SQL Server database for persistent storage.
+- **xUnit**: Unit tests are written using **xUnit** for test automation.
 
 ## Prerequisites
 
