@@ -70,12 +70,23 @@ Once the API is running, you can interact with it via HTTP requests.
 1. **POST /api/invoices**: Create a new invoice.
 
    **Request Body**:
-   ```json
-   {
-     "customerName": "John Doe",
-     "invoiceDate": "2025-01-08",
-     "totalAmount": 150.75
-   }
+   ```
+   json
+
+   [
+      {
+         ProductId : 2
+         Quantity : 5
+         Price : 100.00
+         Discount : 15
+      },
+      {
+         ProductId : 4
+         Quantity : 10
+         Price : 150.00
+         Discount : 5
+      }
+   ]
    ```
    **Response**:  
    **201 Created**: If the invoice was successfully created.
