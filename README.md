@@ -67,7 +67,7 @@ Once the API is running, you can interact with it via HTTP requests.
 
 ### Example Endpoints:
 
-1. **POST /api/invoices**: Create a new invoice.
+1. **POST /api/invoice**: Create a new invoice.
 
    **Request Body**:
    ```
@@ -91,7 +91,7 @@ Once the API is running, you can interact with it via HTTP requests.
    **Response**:  
    **201 Created**: If the invoice was successfully created.
 
-2. **GET /api/invoices**: Retrieve a list of all invoices.  
+2. **GET /api/invoice**: Retrieve a list of all invoices.  
    **Response**  
    ```
    [
@@ -109,7 +109,7 @@ Once the API is running, you can interact with it via HTTP requests.
     }
   ]
   
-3. **GET /api/invoices/{id}**: Retrieve a specific invoice by ID.  
+3. **GET /api/invoice/{id}**: Retrieve a specific invoice by ID.  
    **URL Parameters**:  
    `id:` The unique identifier of the invoice.  
    **Response**  
