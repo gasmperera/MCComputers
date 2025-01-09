@@ -75,15 +75,15 @@ Once the API is running, you can interact with it via HTTP requests.
 
    [
       {
-         ProductId : 2
-         Quantity : 5
-         Price : 100.00
+         ProductId : 2,
+         Quantity : 5,
+         Price : 100.00,
          Discount : 15
       },
       {
-         ProductId : 4
-         Quantity : 10
-         Price : 150.00
+         ProductId : 4,
+         Quantity : 10,
+         Price : 150.00,
          Discount : 5
       }
    ]
